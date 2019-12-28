@@ -3,8 +3,9 @@ graphql
 
 # run
 ``
->npm install
+> npm install
+
 ``
-``
-  localhost:4000
-``
+
+localhost:4000
+
